@@ -16,3 +16,5 @@ Repositório com projetos desenvolvido nos bootcamps da plataforma dio.me
 * [Criando um sistema e abstraindo um celular com POO em C#](https://github.com/fgandraf/dio_projetos/tree/main/Desafio-POO)
   
 * [Construindo um sistema de agendamento de tarefas com Entity Framework](https://github.com/fgandraf/dio_projetos/tree/main/Desafio-API)
+
+* [Montando consultas Relacionais no SQL Server](https://github.com/fgandraf/dio_projetos/tree/main/Desafio-ConsultaSQL)
